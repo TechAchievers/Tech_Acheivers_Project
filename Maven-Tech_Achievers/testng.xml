@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite1">
+
+ <test name="chrome driver">
+  <parameter name = "browser" Value = "Chrome"/>
+    <classes>
+      <class name="testclass.goibibo.Goibibo_testclass"/>    
+      <class name="practice_1.TestNgClass"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="gecko driver">
+   <parameter name = "browser" Value = "Edge"/>
+    <classes>
+      <class name="testclass.goibibo.Goibibo_testclass"/>
+      
+      <class name="practice_1.TestNgClass"/>
+    </classes>>
+  </test> <!-- Test -->
+</suite> <!-- RegressionSuite1 -->

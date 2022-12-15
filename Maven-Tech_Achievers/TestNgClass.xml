@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+ <test thread-count="5" name="ChromeTest">
+ <parameter name = "browser" value = "Chrome"/>
+    <classes>
+      <class name="testclass.goibibo.Goibibo_testclass"/>
+      <class name="practice_1.TestNgClass"/>
+    </classes>
+ 
+  </test> <!-- Chrome Test -->
+  <test thread-count="5" name="EdgeTest">
+ <parameter name = "browser" value = "Edge"/>
+    <classes>
+      <class name="testclass.goibibo.Goibibo_testclass"/>
+      <class name="practice_1.TestNgClass"/>
+    </classes>
+  </test>
+</suite> <!-- Suite -->

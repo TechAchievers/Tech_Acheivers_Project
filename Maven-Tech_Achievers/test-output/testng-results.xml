@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="8" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-21T16:57:06 IST" name="Suite" finished-at="2022-11-21T16:57:30 IST" duration-ms="24068">
+    <groups>
+    </groups>
+    <test started-at="2022-11-21T16:57:06 IST" name="ChromeTest" finished-at="2022-11-21T16:57:16 IST" duration-ms="10349">
+      <class name="practice_1.TestNgClass">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:practice_1.TestNgClass@6d763516]" started-at="2022-11-21T16:57:07 IST" name="beforeTest" finished-at="2022-11-21T16:57:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:practice_1.TestNgClass@6d763516]" started-at="2022-11-21T16:57:16 IST" name="beforeclass" finished-at="2022-11-21T16:57:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:practice_1.TestNgClass@6d763516]" started-at="2022-11-21T16:57:16 IST" name="beforemethod" finished-at="2022-11-21T16:57:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="test()[pri:0, instance:practice_1.TestNgClass@6d763516]" started-at="2022-11-21T16:57:16 IST" name="test" finished-at="2022-11-21T16:57:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:practice_1.TestNgClass@6d763516]" started-at="2022-11-21T16:57:16 IST" name="aftermethod" finished-at="2022-11-21T16:57:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:practice_1.TestNgClass@6d763516]" started-at="2022-11-21T16:57:16 IST" name="beforemethod" finished-at="2022-11-21T16:57:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="test1()[pri:0, instance:practice_1.TestNgClass@6d763516]" started-at="2022-11-21T16:57:16 IST" name="test1" finished-at="2022-11-21T16:57:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:practice_1.TestNgClass@6d763516]" started-at="2022-11-21T16:57:16 IST" name="test2" finished-at="2022-11-21T16:57:16 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:practice_1.TestNgClass@6d763516]" started-at="2022-11-21T16:57:16 IST" name="aftermethod" finished-at="2022-11-21T16:57:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:practice_1.TestNgClass@6d763516]" started-at="2022-11-21T16:57:16 IST" name="beforemethod" finished-at="2022-11-21T16:57:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:practice_1.TestNgClass@6d763516]" started-at="2022-11-21T16:57:16 IST" name="afterclass" finished-at="2022-11-21T16:57:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:practice_1.TestNgClass@6d763516]" started-at="2022-11-21T16:57:16 IST" name="aftermethod" finished-at="2022-11-21T16:57:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:practice_1.TestNgClass@6d763516]" started-at="2022-11-21T16:57:16 IST" name="afterTest" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1669030036485" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- practice_1.TestNgClass -->
+      <class name="testclass.goibibo.Goibibo_testclass">
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:testclass.goibibo.Goibibo_testclass@3e58a80e]" started-at="2022-11-21T16:57:06 IST" name="openbrowser" finished-at="2022-11-21T16:57:07 IST" duration-ms="1189" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method is-config="true" signature="objectcreation()[pri:0, instance:testclass.goibibo.Goibibo_testclass@3e58a80e]" started-at="2022-11-21T16:57:07 IST" name="objectcreation" finished-at="2022-11-21T16:57:07 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectcreation -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:testclass.goibibo.Goibibo_testclass@3e58a80e]" started-at="2022-11-21T16:57:07 IST" name="beforemethod" finished-at="2022-11-21T16:57:09 IST" duration-ms="2385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="verify()[pri:1, instance:testclass.goibibo.Goibibo_testclass@3e58a80e]" started-at="2022-11-21T16:57:09 IST" name="verify" finished-at="2022-11-21T16:57:09 IST" duration-ms="100" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+url not matched :  expected [https://www.goibibo.com] but found [https://www.goibibo.com/]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+url not matched :  expected [https://www.goibibo.com] but found [https://www.goibibo.com/]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:47)
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:31)
+at testclass.goibibo.Goibibo_testclass.verify(Goibibo_testclass.java:66)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:testclass.goibibo.Goibibo_testclass@3e58a80e]" started-at="2022-11-21T16:57:09 IST" name="beforemethod" finished-at="2022-11-21T16:57:11 IST" duration-ms="1428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="test()[pri:2, instance:testclass.goibibo.Goibibo_testclass@3e58a80e]" started-at="2022-11-21T16:57:11 IST" name="test" finished-at="2022-11-21T16:57:16 IST" duration-ms="5138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="clearobjects()[pri:0, instance:testclass.goibibo.Goibibo_testclass@3e58a80e]" started-at="2022-11-21T16:57:16 IST" name="clearobjects" finished-at="2022-11-21T16:57:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearobjects -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testclass.goibibo.Goibibo_testclass@3e58a80e]" started-at="2022-11-21T16:57:16 IST" name="closebrowser" finished-at="2022-11-21T16:57:16 IST" duration-ms="22" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "org.openqa.selenium.WebDriver.close()" because "this.driver" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.close()" because "this.driver" is null
+at testclass.goibibo.Goibibo_testclass.closebrowser(Goibibo_testclass.java:83)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
+at org.testng.TestRunner.afterRun(TestRunner.java:877)
+at org.testng.TestRunner.run(TestRunner.java:599)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testclass.goibibo.Goibibo_testclass -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2022-11-21T16:57:16 IST" name="EdgeTest" finished-at="2022-11-21T16:57:30 IST" duration-ms="13650">
+      <class name="practice_1.TestNgClass">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:practice_1.TestNgClass@42a48628]" started-at="2022-11-21T16:57:06 IST" name="beforeSuite" finished-at="2022-11-21T16:57:06 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:practice_1.TestNgClass@42a48628]" started-at="2022-11-21T16:57:19 IST" name="beforeTest" finished-at="2022-11-21T16:57:19 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:practice_1.TestNgClass@42a48628]" started-at="2022-11-21T16:57:30 IST" name="beforeclass" finished-at="2022-11-21T16:57:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:practice_1.TestNgClass@42a48628]" started-at="2022-11-21T16:57:30 IST" name="beforemethod" finished-at="2022-11-21T16:57:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="test()[pri:0, instance:practice_1.TestNgClass@42a48628]" started-at="2022-11-21T16:57:30 IST" name="test" finished-at="2022-11-21T16:57:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:practice_1.TestNgClass@42a48628]" started-at="2022-11-21T16:57:30 IST" name="aftermethod" finished-at="2022-11-21T16:57:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:practice_1.TestNgClass@42a48628]" started-at="2022-11-21T16:57:30 IST" name="beforemethod" finished-at="2022-11-21T16:57:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="test1()[pri:0, instance:practice_1.TestNgClass@42a48628]" started-at="2022-11-21T16:57:30 IST" name="test1" finished-at="2022-11-21T16:57:30 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:practice_1.TestNgClass@42a48628]" started-at="2022-11-21T16:57:30 IST" name="aftermethod" finished-at="2022-11-21T16:57:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:practice_1.TestNgClass@42a48628]" started-at="2022-11-21T16:57:30 IST" name="beforemethod" finished-at="2022-11-21T16:57:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="test2()[pri:0, instance:practice_1.TestNgClass@42a48628]" started-at="2022-11-21T16:57:30 IST" name="test2" finished-at="2022-11-21T16:57:30 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:practice_1.TestNgClass@42a48628]" started-at="2022-11-21T16:57:30 IST" name="aftermethod" finished-at="2022-11-21T16:57:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:practice_1.TestNgClass@42a48628]" started-at="2022-11-21T16:57:30 IST" name="afterclass" finished-at="2022-11-21T16:57:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:practice_1.TestNgClass@42a48628]" started-at="2022-11-21T16:57:30 IST" name="afterTest" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1669030050194" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:practice_1.TestNgClass@42a48628]" started-at="2022-11-21T16:57:30 IST" name="afterSuite" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1669030050227" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- practice_1.TestNgClass -->
+      <class name="testclass.goibibo.Goibibo_testclass">
+        <test-method is-config="true" signature="openbrowser(java.lang.String)[pri:0, instance:testclass.goibibo.Goibibo_testclass@130d63be]" started-at="2022-11-21T16:57:16 IST" name="openbrowser" finished-at="2022-11-21T16:57:19 IST" duration-ms="2904" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method is-config="true" signature="objectcreation()[pri:0, instance:testclass.goibibo.Goibibo_testclass@130d63be]" started-at="2022-11-21T16:57:19 IST" name="objectcreation" finished-at="2022-11-21T16:57:19 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectcreation -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:testclass.goibibo.Goibibo_testclass@130d63be]" started-at="2022-11-21T16:57:19 IST" name="beforemethod" finished-at="2022-11-21T16:57:22 IST" duration-ms="2673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="verify()[pri:1, instance:testclass.goibibo.Goibibo_testclass@130d63be]" started-at="2022-11-21T16:57:22 IST" name="verify" finished-at="2022-11-21T16:57:22 IST" duration-ms="138" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+url not matched :  expected [https://www.goibibo.com] but found [https://www.goibibo.com/]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+url not matched :  expected [https://www.goibibo.com] but found [https://www.goibibo.com/]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:47)
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:31)
+at testclass.goibibo.Goibibo_testclass.verify(Goibibo_testclass.java:66)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:testclass.goibibo.Goibibo_testclass@130d63be]" started-at="2022-11-21T16:57:22 IST" name="beforemethod" finished-at="2022-11-21T16:57:23 IST" duration-ms="1713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="test()[pri:2, instance:testclass.goibibo.Goibibo_testclass@130d63be]" started-at="2022-11-21T16:57:23 IST" name="test" finished-at="2022-11-21T16:57:30 IST" duration-ms="6154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="clearobjects()[pri:0, instance:testclass.goibibo.Goibibo_testclass@130d63be]" started-at="2022-11-21T16:57:30 IST" name="clearobjects" finished-at="2022-11-21T16:57:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearobjects -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testclass.goibibo.Goibibo_testclass@130d63be]" started-at="2022-11-21T16:57:30 IST" name="closebrowser" finished-at="2022-11-21T16:57:30 IST" duration-ms="21" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "org.openqa.selenium.WebDriver.close()" because "this.driver" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.close()" because "this.driver" is null
+at testclass.goibibo.Goibibo_testclass.closebrowser(Goibibo_testclass.java:83)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
+at org.testng.TestRunner.afterRun(TestRunner.java:877)
+at org.testng.TestRunner.run(TestRunner.java:599)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testclass.goibibo.Goibibo_testclass -->
+    </test> <!-- EdgeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
