@@ -12,7 +12,7 @@ public class LoginPage {
 		PageFactory.initElements(driver,this);
 	}
 	public void signinbutton() {
-		singInButton.click();
+		//singInButton.click();
 	}
 	
 
